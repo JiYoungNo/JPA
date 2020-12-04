@@ -1,3 +1,5 @@
 # JPA
 
-참고: http://www.acornpub.co.kr/book/jpa-programmig#description
+참고서적
+
+http://www.acornpub.co.kr/book/jpa-programmig#description
